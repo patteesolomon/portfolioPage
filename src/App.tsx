@@ -6,7 +6,6 @@ import './App.css'
 function App() {
 
   return (
-
     <div className="App">
       <div>
       <h1>
@@ -26,7 +25,9 @@ function App() {
 /></h1>
       </div>
       <p className="read-the-docs">
-        Click Here
+
+        <a href="/dist/home.html">Click Here</a> 
+
       </p>
     </div>
   )
